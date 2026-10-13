@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "assets": {
+    "aarch64-apple-darwin": {
+      "url": "https://github.com/jhonesis/geneia-release/releases/download/v1.0.0/geneia-aarch64-apple-darwin",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "sig": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+    },
+    "aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/jhonesis/geneia-release/releases/download/v1.0.0/geneia-aarch64-unknown-linux-gnu",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "sig": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+    },
+    "x86_64-apple-darwin": {
+      "url": "https://github.com/jhonesis/geneia-release/releases/download/v1.0.0/geneia-x86_64-apple-darwin",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "sig": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+    },
+    "x86_64-pc-windows-msvc": {
+      "url": "https://github.com/jhonesis/geneia-release/releases/download/v1.0.0/geneia-x86_64-pc-windows-msvc.exe",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "sig": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+    },
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/jhonesis/geneia-release/releases/download/v1.0.0/geneia-x86_64-unknown-linux-gnu",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "sig": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+    }
+  },
+  "min_supported": "1.0.0",
+  "example_do_not_use": true
+}
