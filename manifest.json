@@ -3,30 +3,29 @@
   "assets": {
     "aarch64-apple-darwin": {
       "url": "https://github.com/jhonesis/geneia-release/releases/download/v1.0.0/geneia-aarch64-apple-darwin",
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-      "sig": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+      "sha256": "5cc5421a96dfa9e6db02a40c7dc3b6349c16a032b7065bdff05aeb4de85c933f",
+      "sig": "0RJhq7LCdk++pHkcNIUNFw59LidHPH3KR/BTIoUfWSuQsDXX15G68O1hqQVhvbwqShb1iptrmy0NH8rg5PbyCw=="
     },
     "aarch64-unknown-linux-gnu": {
       "url": "https://github.com/jhonesis/geneia-release/releases/download/v1.0.0/geneia-aarch64-unknown-linux-gnu",
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-      "sig": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+      "sha256": "62c6f2957958a71f4261af9cb390d766eed1e067bbd35735c59099d601155826",
+      "sig": "M8su+YHWcCZQnWvMDWPwllwCfWwXvsFaoiO2FiZp3gU22+DXVUDfknwF6Z++CAyMX8XIolOh8lWp/VRScE2qAg=="
     },
     "x86_64-apple-darwin": {
       "url": "https://github.com/jhonesis/geneia-release/releases/download/v1.0.0/geneia-x86_64-apple-darwin",
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-      "sig": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+      "sha256": "7c7d38503967f5e242b3f5c675207cb4d3aeb2bd544973d5d52b06b682cc1810",
+      "sig": "dRMRQobRNvMzqVlWjbl1jjZWYAg1LhCGvXyA/zKZBXSGRQoLHGYwR6wdS80zGcn7jgtYTSFJKcW3fdb4OH3zDw=="
     },
     "x86_64-pc-windows-msvc": {
       "url": "https://github.com/jhonesis/geneia-release/releases/download/v1.0.0/geneia-x86_64-pc-windows-msvc.exe",
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-      "sig": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+      "sha256": "d9ee393056b9b9e97466ee9917db5cb6fb82e135bc27e57591bb76edfe8421f9",
+      "sig": "NLUKAL1RTSIkIabafrWZy4MeY/NYeIL/MZ5FBjBKOQJAIsNPt9Nqpnp038FocASAG2u4xjRAiq3HhYm5uUnLCg=="
     },
     "x86_64-unknown-linux-gnu": {
       "url": "https://github.com/jhonesis/geneia-release/releases/download/v1.0.0/geneia-x86_64-unknown-linux-gnu",
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-      "sig": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+      "sha256": "79a460a09d00c3089a7dd38db2ed09fc990972b59c070b0d5835bc6de2321fd7",
+      "sig": "H3ma5KQaILp1S7mSYwh8+vcKmR6JHE9VI6silJaFEBJtLboJkY/6RXkRKexgOmFu8iEvvFLaucO+G9YRtUJWBw=="
     }
   },
-  "min_supported": "1.0.0",
-  "example_do_not_use": true
+  "min_supported": "1.0.0"
 }

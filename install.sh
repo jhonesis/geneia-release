@@ -32,7 +32,7 @@ set -eu
 # Trust anchor: first install trusts TLS (GitHub) + manifest SHA-256 (+ Ed25519
 # when node is present). Test-only override (T113 local proof installs an
 # ephemeral-key test release): the default stays the production pinned key.
-TRUSTED_PUBLIC_KEY_B64="${GENEIA_TRUSTED_PUBKEY_OVERRIDE:-3gQ8ur5vY808h57RZXhuiI1s8tjQe1l8TXb/66uyyuE=}"
+TRUSTED_PUBLIC_KEY_B64="${GENEIA_TRUSTED_PUBKEY_OVERRIDE:-VV78myaX8dvpZuqO1t9juYYne2oNrb9IUbrh1XgTzO0=}"
 BASE_URL="${GENEIA_RELEASES_BASE_URL:-https://github.com/jhonesis/geneia-release/releases}"
 INSTALL_DIR="${INSTALL_DIR:-$HOME/.local/bin}"
 PINNED_VERSION="${GENEIA_VERSION:-}"
